@@ -1,6 +1,7 @@
 # Fello
 
 Last semester I asked my professor for some extra projects to challenge myself beyond what we had learned and he gave me the following:
+
 ![](https://github.com/seerocode/seerocode.github.io/blob/master/images/Java-Prep-Projects.jpg?raw=true)
 
 This repo is dedicated to the first project in that list which I am calling "Fello". I am working on this as part of a #30DaysofCode Challenge set up for our NSBE-SHPE chapter at Lehman College.
