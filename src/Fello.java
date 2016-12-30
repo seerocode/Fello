@@ -24,6 +24,7 @@ public class Fello {
 
             } // end of while loop
 
+            // Close file
             txtFile.close();
 
         } catch (Exception e) {
